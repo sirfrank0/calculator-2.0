@@ -1,10 +1,10 @@
 *{
-    color: blue
+    color: white
 }
 
 body{
     margin: 0;
-    background-color: darkblue;
+    background-color: #224870;
 }
 
 .container{
@@ -41,4 +41,34 @@ button:active{
 
 button:focus{
     outline: none;
+}
+
+.display{
+    grid-column: 1 / -1;
+    padding: 16px;
+    display: flex;
+    margin: 12px 12px 22px;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #363636;
+    border-radius: 32px;
+    text-align: right;
+    justify-content: space-between;
+    word-break: break-all;
+    box-shadow: 0px 0px 0px 12px #00000033;
+}
+
+.col-2{
+    grid-column: span 2;
+}
+
+
+#valor-actual{
+    font-size: 1.5em;
+
+}
+
+#valor-anterior{
+    font-size: 2em;
+    
 }
