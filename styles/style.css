@@ -4,7 +4,9 @@
 
 body{
     margin: 0;
-    background-color: #C1E6E6;
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 40px ), repeating-linear-gradient( #C1E6E655, #C1E6E6 );;
 }
 
 .container{
@@ -21,7 +23,7 @@ body{
     background-color: #EB6649;
     padding: 16px;
     border-radius: 32px;
-    box-shadow: 16px 12px 0px 6px #571a08a6;
+    box-shadow: 16px 12px 0px 6px #571a08c9;
 }
 
 button{
