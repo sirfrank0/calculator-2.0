@@ -4,9 +4,9 @@
 
 body{
     margin: 0;
-    background-color: #e5e5f7;
+    background-color: #a3d9e0;
     opacity: 1;
-    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 40px ), repeating-linear-gradient( #C1E6E655, #C1E6E6 );;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #a3d9e0 40px ), repeating-linear-gradient( #C1E6E655, #C1E6E6 );
 }
 
 .container{
