@@ -1,6 +1,6 @@
-//variables con elementos de html para usarlos en JS
+//variables con elementos de html para usarlos en JS.
 
 const displayValorAnterior = document.getElementById('valor-anterior');         
 const displayValorActual = document.getElementById('valor-actual');
 const botonesNumeros = document.querySelectorAll('.numero');
-const botonesOperadores = document.querySelectorAll('.operador');
+const botonesOperadores = document.querySelectorAll('.operador'); 
