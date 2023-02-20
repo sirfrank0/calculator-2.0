@@ -2,6 +2,14 @@
     color: #429BF1;
 }
 
+#valor-anterior{
+    color: #cf88b6;
+}
+
+#valor-actual{
+    color: #cf88b6;
+}
+
 body{
     margin: 0;
     opacity: 1;
